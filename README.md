@@ -1,6 +1,6 @@
 **Hi there! 👋**
 
-**👩🏽‍💻 Software Engineering Student | Aspiring ML & Full-Stack Engineer**
+- **👩🏽‍💻 Software Engineering Student | Aspiring ML & Full-Stack Engineer**
 
 - 🚀 Building, learning, and problem-solving one line of code at a time
 - 💡 Currently focused on frontend development & full-stack projects
