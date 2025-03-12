@@ -1,12 +1,10 @@
-- 👋 Hi, I’m Shina Atete Mpeta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋
 
-<!---
-shina-wq/shina-wq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👩🏽‍💻 Software Engineering Student | Aspiring ML & Full-Stack Engineer
+
+🚀 Building, learning, and problem-solving one line of code at a time
+💡 Currently focused on frontend development & full-stack projects
+📚 Learning & growing every day
+
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/shina-atete-mpeta-a13783252/)  
+ 
