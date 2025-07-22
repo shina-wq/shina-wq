@@ -1,10 +1,20 @@
-**Hi there! 👋**
+# 👋 Hi, I’m Shina
 
-- **👩🏽‍💻 Software Engineering Student**
+I’m a Software Engineering student at African Leadership University, building responsive and accessible web applications.
 
-- 🚀 Building, learning, and problem-solving one line of code at a time
-- 💡 Currently focused on frontend development & full-stack projects
-- 📚 Learning & growing every day
+- 🚀 Building, learning, and problem-solving, one line of code at a time  
+- 💡 Currently focused on full-stack development with React & Node.js  
+- 📚 Growing every day through hands-on practice and curiosity  
 
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/shina-atete-mpeta-a13783252/)  
- 
+---
+
+## 🎓 School Projects
+
+I keep my academic coursework on a separate GitHub account for better organization.  
+👉 [@shina227](https://github.com/shina227)
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/shina-atete-mpeta-a13783252/)
